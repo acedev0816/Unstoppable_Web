@@ -3,6 +3,10 @@
 .Features {
   display: flex;
 
+  a {
+    color: $yellow-d;
+  }
+
   @include sm {
     flex-direction: column;
 

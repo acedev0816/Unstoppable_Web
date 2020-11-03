@@ -14,13 +14,13 @@ function Wallet() {
       <Container clipped={false}>
         <div className="Section-head">
           <div className="Section-icon">
-            <Icon name="rect" />
+            <Icon name="wallet" />
           </div>
           <div className="Section-text">
             One wallet for all major cryptocurrencies
           </div>
           <div className="Section-info">
-            Store and manage over 60 cryptocurrencies and tokens on all major blockchains including Bitcoin, Ethereum, Binance Chain and EOS
+            Store and manage over 60 cryptocurrencies and hundreds of crypto tokens on all major blockchains.
           </div>
         </div>
       </Container>
@@ -51,13 +51,14 @@ function Wallet() {
         </div>
         <div className="Section-head">
           <div className="Section-icon">
-            <Icon name="rect" />
+            <Icon name="phone" />
           </div>
           <div className="Section-text">
             Intuitive and powerful
           </div>
           <div className="Section-info">
-            Manage your assets in a responsive and user-friendly interface
+            Manage your assets in a responsive and user-friendly interface. Unstoppable engineered using native iOS and Android programming languages
+            and therefore able to provide better performance, smoother interface and overall wider selection of features.
           </div>
         </div>
       </Container>
